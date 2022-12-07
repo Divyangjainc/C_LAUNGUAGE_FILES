@@ -4,7 +4,7 @@ main()
 {
 	int n,i,n1=0,n2=1,n3;
 	
-	printf("Enter howmany numbers of fibonacci series do u want :");
+	printf("Enter how many numbers of febonacci series do u want :");
 	scanf("%d",&n);
 	printf("%d",&n1);
 	printf("%d",&n2);
