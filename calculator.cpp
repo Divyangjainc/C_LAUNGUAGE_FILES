@@ -1,5 +1,3 @@
-#include <iostream>
-using namespace std;
 
 // C++ program to create calculator using
 // switch statement
@@ -7,7 +5,7 @@ using namespace std;
 using namespace std;
 
 // Main program
-main()
+int main ()
 {
 	char op;
 	float num1, num2;
