@@ -15,7 +15,7 @@ void main()
     scanf("%d",&pos);
     printf("Enter item that you won ");
     scanf("%d",&item);
-    for(i=size;i>=pos;i--)
+    For(i=size;i>=pos;i--)
     {
         a[i]=a[i-1];
     }

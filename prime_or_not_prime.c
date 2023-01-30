@@ -7,7 +7,7 @@ int main() {
     for (loop = 2; loop <= number / 2; ++ loop) {
 
         // condition for non-prime 
-        if (number % loop == 0) {
+        If (number % loop == 0) {
             flag = 1;
             break;
         }

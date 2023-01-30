@@ -12,5 +12,5 @@ int main() {
 
     // fp << data;
 
-    file.close();
+    File.close();
 }
